@@ -1,0 +1,83 @@
+@font-face {
+    font-family: fonts;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+*{
+   box-sizing: border-box;
+}
+body{
+    background-color: #e0e0e0;
+
+}
+
+
+.card{
+    width: 378px;
+    height: 489px;
+    border: 1px solid #f4b4b4;
+    border-radius: 10px;
+    margin:150px auto;
+    
+    background-color:#F5f5f5;
+}
+img{
+    width: 359px;
+    height: 200.52px;
+    padding-top: 14px;
+    padding-left: 9px;
+}
+
+.omn{
+    margin-left: 29px;
+    color: #616161;
+    font-family: fonts;
+}
+
+.emoj{
+    width: 315px;
+    height: 45px;
+    border: 1px solid #f4b4b4;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: fonts;
+}
+.dopel{
+    margin-left: 29px;
+    color: #616161;
+    font-family: fonts;
+}
+.dox{
+    width: 315px;
+    height: 45px;
+    border: 1px solid #f4b4b4;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+button{
+    width: 315px;
+    height: 45px;
+    background-color: #6756cb;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 5px; 
+}
+.fbim{
+    width: 25px;
+    height: 30px;
+margin-top: 5px;
+    position: absolute;
+    margin-left: 310px;
+}
+.omni{
+    width: 25px;
+    height: 30px;
+margin-top: 5px;
+    position: absolute;
+    margin-left: 310px; 
+}
